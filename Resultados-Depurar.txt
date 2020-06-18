@@ -1,0 +1,150 @@
+﻿'Game.exe' (Win32): 'C:\Users\xavi0\Desktop\CompGraf2020\Supergalactica\Release\Game.exe' cargado. Símbolos cargados.
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbase.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\user32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\win32u.dll' cargado. 
+'Game.exe' (Win32): 'C:\Users\xavi0\Desktop\CompGraf2020\Supergalactica\Release\glew32d.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\gdi32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\gdi32full.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\msvcp_win.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\shell32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\cfgmgr32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\opengl32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\SHCore.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. 
+'Game.exe' (Win32): 'C:\Users\xavi0\Desktop\CompGraf2020\Supergalactica\Release\alut.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\sspicli.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\OpenAL32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\cryptbase.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' cargado. 
+'Game.exe' (Win32): 'C:\Users\xavi0\Desktop\CompGraf2020\Supergalactica\Release\CGALib.dll' cargado. Símbolos cargados.
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\combase.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\windows.storage.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\profapi.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\powrprof.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\winmm.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\umpdc.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\shlwapi.dll' cargado. 
+'Game.exe' (Win32): 'C:\Users\xavi0\Desktop\CompGraf2020\Supergalactica\Release\FreeImaged.dll' cargado. 
+'Game.exe' (Win32): 'C:\Users\xavi0\Desktop\CompGraf2020\Supergalactica\Release\assimp-vc140-mt.dll' cargado. 
+'Game.exe' (Win32): 'C:\Users\xavi0\Desktop\CompGraf2020\Supergalactica\Release\FreeImaged.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\cryptsp.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\glu32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\DXCore.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' cargado. 
+'Game.exe' (Win32): 'C:\Users\xavi0\Desktop\CompGraf2020\Supergalactica\Release\FreeImaged.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\ws2_32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\imm32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\uxtheme.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\dinput8.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\XInput1_4.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\devobj.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\dwmapi.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\InputHost.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\CoreMessaging.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\propsys.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\CoreUIComponents.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\oleaut32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\ntmarta.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\hid.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\setupapi.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\bcrypt.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\wintrust.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\msasn1.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\crypt32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\msctf.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_b8aebfba8eb82281\nvdlist.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3c82703a0fbed0ab\ig9icd32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\ole32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\dxgi.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3c82703a0fbed0ab\igdgmm32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3c82703a0fbed0ab\igc32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_b8aebfba8eb82281\nvdlist.dll' descargado
+El subproceso 0x5a4c terminó con código 0 (0x0).
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3c82703a0fbed0ab\igdgmm32.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_b8aebfba8eb82281\nvdlist.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3c82703a0fbed0ab\igdgmm32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\TextInputFramework.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_b8aebfba8eb82281\nvdlist.dll' descargado
+El subproceso 0x65d8 terminó con código 0 (0x0).
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\iertutil.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_b8aebfba8eb82281\nvdlist.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_b8aebfba8eb82281\nvdlist.dll' descargado
+El subproceso 0x5fe8 terminó con código 0 (0x0).
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\MMDevAPI.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\wdmaud.drv' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\ksuser.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\avrt.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\AudioSes.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\msacm32.drv' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\msacm32.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\midimap.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\wrap_oal.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\wrap_oal.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\wrap_oal.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\dsound.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\clbcatq.dll' cargado. 
+onecore\com\combase\objact\objact.cxx(836)\combase.dll!7764ADCC: (caller: 77649D9B) ReturnHr(1) tid(335c) 800401F0 No se ha llamado a CoInitialize.
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll' cargado. 
+El subproceso 0x64b8 terminó con código 0 (0x0).
+El subproceso 0x1e2c terminó con código 0 (0x0).
+El subproceso 0x24b4 terminó con código 0 (0x0).
+El subproceso 0x55e0 terminó con código 0 (0x0).
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\wrap_oal.dll' descargado
+onecore\com\combase\objact\objact.cxx(836)\combase.dll!7764ADCC: (caller: 77649D9B) ReturnHr(2) tid(335c) 800401F0 No se ha llamado a CoInitialize.
+onecore\com\combase\objact\objact.cxx(836)\combase.dll!7764ADCC: (caller: 77649D9B) ReturnHr(3) tid(335c) 800401F0 No se ha llamado a CoInitialize.
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\wrap_oal.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\wrap_oal.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\wrap_oal.dll' cargado. 
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\Windows.UI.dll' cargado. 
+El subproceso 0x4104 terminó con código 0 (0x0).
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3c82703a0fbed0ab\igdgmm32.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\XInput1_4.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\msasn1.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\crypt32.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\wintrust.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\setupapi.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\hid.dll' descargado
+'Game.exe' (Win32): 'C:\Windows\SysWOW64\dinput8.dll' descargado
+El subproceso 0x57f4 terminó con código 1 (0x1).
+El subproceso 0x3f50 terminó con código 1 (0x1).
+El subproceso 0x5070 terminó con código 1 (0x1).
+El subproceso 0x49a8 terminó con código 1 (0x1).
+El subproceso 0x526c terminó con código 1 (0x1).
+El subproceso 0x3e4c terminó con código 1 (0x1).
+El subproceso 0x1030 terminó con código 1 (0x1).
+El subproceso 0x4754 terminó con código 1 (0x1).
+El subproceso 0x5ba8 terminó con código 1 (0x1).
+El subproceso 0x5c58 terminó con código 1 (0x1).
+El subproceso 0x382c terminó con código 1 (0x1).
+El subproceso 0x68e8 terminó con código 1 (0x1).
+El subproceso 0x4b34 terminó con código 1 (0x1).
+El subproceso 0x48e4 terminó con código 1 (0x1).
+El subproceso 0x2c94 terminó con código 1 (0x1).
+El programa '[13864] Game.exe' terminó con código 1 (0x1).
